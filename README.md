@@ -1,5 +1,3 @@
-__Padrões implementados:__
-
 ### Strategy
 [Reusabilidade!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/strategy)
 
