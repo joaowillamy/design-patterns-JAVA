@@ -4,64 +4,64 @@ __Padrões implementados:__
 [Reusabilidade!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/strategy)
 
 ### Decorator
-[Incrementando funcionalidades](http://wp.me/p1Mek8-h)
+[Incrementando funcionalidades](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/decorator)
 
 ### Composite
-[objetos com justiça!](http://wp.me/p1Mek8-M)
+[objetos com justiça!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/composite)
 
 ### Iterator
-[Percorrendo um conjunto de dados](http://wp.me/p1Mek8-15)
+[Percorrendo um conjunto de dados](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/iterator)
 
 ### Factory Method
-[Criando objetos, alta flexibilidade!](http://wp.me/p1Mek8-1c)
+[Criando objetos, alta flexibilidade!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/factoryMethod)
 
 ### Abstract Factory
-[Criando famílias de objetos, alta flexibilidade!](http://wp.me/p1Mek8-1h)
+[Criando famílias de objetos, alta flexibilidade!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/abstractFactory)
 
 ### Template Method
-[Definindo algoritmos extensíveis!](http://wp.me/p1Mek8-1C)
+[Definindo algoritmos extensíveis!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/templateMethod)
 
 ### Singleton
-[Centralizando recursos!](http://wp.me/p1Mek8-1Z)
+[Centralizando recursos!](#)
 
 ### Builder
-[Construindo o produto](http://wp.me/p1Mek8-2a)
+[Construindo o produto](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/builder)
 
 ### Proxy
-[acesso aos objetos!](http://wp.me/p1Mek8-2o)
+[acesso aos objetos!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/proxy)
 
 ### Adapter
-[Plugando ao sistema!](http://wp.me/p1Mek8-2z)
+[Plugando ao sistema!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/adapter)
 
 ### Bridge
-[Separando em prol da flexibilidade!](http://wp.me/p1Mek8-2K)
+[Separando em prol da flexibilidade!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/bridge)
 
 ### Observer
-[Compartilhando recursos, inteligente!](http://wp.me/p1Mek8-2T)
+[Compartilhando recursos, inteligente!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/observer)
 
 ### Mediator
-[Simplificando relacionamentos](http://wp.me/p1Mek8-3l)
+[Simplificando relacionamentos](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/mediator)
 
 ### Command
-[Transformando requisições em objetos!](http://wp.me/p1Mek8-3y)
+[Transformando requisições em objetos!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/command)
 
 ### Memento
-[Externalizando estados com encapsulamento!](http://wp.me/p1Mek8-3I)
+[Externalizando estados com encapsulamento!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/memento)
 
 ### Flyweight
-[Compartilhando recursos, economizar espaço](http://wp.me/p1Mek8-45)
+[Compartilhando recursos, economizar espaço](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/flyweight)
 
 ### Facade
-[Simplificando a utilização de subsistemas](http://wp.me/p1Mek8-4c)
+[Simplificando a utilização de subsistemas](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/facade)
 
 ### Interpreter
-[Definindo uma gramática e um interpretador!](http://wp.me/p1Mek8-4o)
+[Definindo uma gramática e um interpretador!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/interpreter)
 
 ### State
-[Simplificando a troca de estados](http://wp.me/p1Mek8-4y)
+[Simplificando a troca de estados](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/state)
 
 ### Visitor
-[Separando operações de estruturas!](http://wp.me/p1Mek8-4K)
+[Separando operações de estruturas!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/visitor)
 
 ### Prototype
-[Criando objetos por cópia de uma instância!](http://wp.me/p1Mek8-51)
+[Criando objetos por cópia de uma instância!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/prototype)
