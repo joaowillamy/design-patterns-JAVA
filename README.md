@@ -1,7 +1,7 @@
 __Padrões implementados:__
 
 ### Strategy
-[Reusabilidade!](http://wp.me/s1Mek8-strategy)
+[Reusabilidade!](https://github.com/joaowillamy/design-patterns-JAVA/tree/master/src/br/padroes/strategy)
 
 ### Decorator
 [Incrementando funcionalidades](http://wp.me/p1Mek8-h)
